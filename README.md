@@ -85,11 +85,10 @@ const achievements = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=roxaszohbi&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=roxaszohbi&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoxasZohbi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roxaszohbi&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com/?user=RoxasZohbi&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
